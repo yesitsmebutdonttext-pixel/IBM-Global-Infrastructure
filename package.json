@@ -1,0 +1,12 @@
+{
+  "name": "ibm-global-dpp",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "python main.py"
+  },
+  "dependencies": {
+    "fastapi": "^0.100.0",
+    "uvicorn": "^0.22.0",
+    "openai": "^4.0.0"
+  }
+}
